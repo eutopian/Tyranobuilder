@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/genkan.jpg"  ]
+[preload  storage="./data/fgimage/chara/10/neutral.png"  ]
+[preload  storage="./data/fgimage/chara/11/neutral.png"  ]
+[preload  storage="./data/fgimage/chara/10/sad.png"  ]
+[preload  storage="./data/fgimage/chara/11/sad.png"  ]
+[preload  storage="./data/fgimage/chara/10/happy.png"  ]
+[preload  storage="./data/fgimage/chara/11/happy.png"  ]
+[return]

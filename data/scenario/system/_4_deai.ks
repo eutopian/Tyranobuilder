@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/machi.jpg"  ]
+[preload  storage="./data/fgimage/chara/13/surprised.png"  ]
+[preload  storage="./data/fgimage/chara/13/happy.png"  ]
+[preload  storage="./data/fgimage/chara/13/sad.png"  ]
+[return]

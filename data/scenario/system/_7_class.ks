@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/classroom.jpg"  ]
+[preload  storage="./data/fgimage/chara/12/neutral.png"  ]
+[preload  storage="./data/fgimage/chara/9/neutral.png"  ]
+[preload  storage="./data/fgimage/chara/9/confused.png"  ]
+[preload  storage="./data/fgimage/chara/9/happy.png"  ]
+[return]
