@@ -1,6 +1,10 @@
 {
         "name":"tyranoscript",
         "main":"app://./index.html",
+         "engines": {
+            "node": "6.0.0",
+            "npm": "5.5.1"
+    },
 		"window":{
 		"title": "node-webkit demo",
     		"icon": "link.png",
